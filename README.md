@@ -2,7 +2,7 @@
 
 Under construction, useful links for now...
 
-[CV2021](https://github.com/hosseinbahmanpour/hosseinbahmanpour.github.io/raw/master/CV2021.pdf "Hossein's public CV")
+[CV2021](https://raw.githubusercontent.com/hosseinbahmanpour/hosseinbahmanpour.github.io/master/CV2021.pdf "Hossein's public CV")
 
 [repositories](https://github.com/hosseinbahmanpour "Hossein's repositories")
 
