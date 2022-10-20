@@ -2,7 +2,7 @@
 
 Under construction, useful links for now...
 
-[CV2022](https://drive.google.com/file/d/1nyX9AP_q593xVVMYmt2-KDc4RRJFtvZuXhnED4TrOzU/view "Hossein's public CV")
+[CV2022](https://github.com/hosseinbahmanpour/hosseinbahmanpour.github.io/blob/master/CV2022.pdf "Hossein's public CV")
 
 [repositories](https://github.com/hosseinbahmanpour "Hossein's Code Repositories")
 
