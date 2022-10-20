@@ -2,10 +2,10 @@
 
 Under construction, useful links for now...
 
-[CV2021](https://docs.google.com/viewer?url=https://drive.google.com/file/d/1yAvxTqkb5N9hNKCvOOop5NbjqKjPknn-/view "Hossein's public CV")
+[CV2022](https://docs.google.com/document/d/1nyX9AP_q593xVVMYmt2-KDc4RRJFtvZuXhnED4TrOzU/ "Hossein's public CV")
 
-[repositories](https://github.com/hosseinbahmanpour "Hossein's repositories")
+[repositories](https://github.com/hosseinbahmanpour "Hossein's Code Repositories")
 
-[games](https://bahmanpour.wordpress.com "Hossein's games")
+[games](https://hossein.fi "Hossein's Portfolio")
 
 [articles](https://hosseinbahmanpour.blogspot.com "Hossein's articles")
